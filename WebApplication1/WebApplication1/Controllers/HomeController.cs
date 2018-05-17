@@ -22,7 +22,7 @@ namespace WebApplication1.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your forth contact page.";
+            ViewBag.Message = "Your fifth contact page.";
 
             return View();
         }
